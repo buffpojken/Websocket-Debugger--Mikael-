@@ -1,0 +1,3 @@
+Kör genom "ruby stdio.rb ws://PATH_TO_WEBSOCKET:PORT_OF_WEBSOCKET", 
+så läser scriptet från STDIO och printer STDOUT, med tydliga markeringar
+vad som är IN och vad som är OUT.
